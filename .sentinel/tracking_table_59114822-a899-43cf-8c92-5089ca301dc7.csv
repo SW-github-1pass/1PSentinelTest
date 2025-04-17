@@ -1,12 +1,2 @@
 FileName, CommitSha
-1Password/Analytics Rules/arm/1Password - Vault export post account creation.json,2c358ca3a211f3ff366f3bd6026e145aecac5ca6
-1Password/Analytics Rules/arm/1Password - New service account integration created.json,b5bc13c6c3a776e5c555a848d62d2f56c5914582
-1Password/Analytics Rules/arm/1Password - Service account integration token adjustment.json,99e7e80c5dcfb6346017104291c4cd1448aaf309
-1Password/Analytics Rules/arm/1Password - Vault export prior to account suspension or deletion.json,451e144d42abd542fb3a31fe204ce6bca1f15f0b
-1Password/Analytics Rules/arm/1Password - Privileged vault permission change.json,7f4222e6d028391572ed8e62ce2e22ac8600d335
-1Password/Analytics Rules/arm/1Password - Potential insider privilege escalation via vault.json,9d89944b8fa1b3f7a93d267f0bb737f5879d17f4
-1Password/Analytics Rules/arm/1Password - Changes to SSO configuration.json,f7c2c1b7b620086c96f059b6e998b3256238404c
-1Password/Analytics Rules/arm/1Password - Successful anomalous sign-in.json,64e59247628c62f7141b121781efe3febc351a0c
-1Password/Analytics Rules/arm/1Password - User added to privileged group.json,b326babca35a13767bbbfde94f683e867894fd25
-1Password/Analytics Rules/arm/1Password - Log Ingestion Failure.json,eb07cf5b69d492938f12f6edea185f1543532071
 
